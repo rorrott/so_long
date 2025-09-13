@@ -1,0 +1,6 @@
+*.o
+*.a
+libmlx.dylib
+libmlx_Linux.a
+minilibx-mms/*.json
+*.log
